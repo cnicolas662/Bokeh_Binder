@@ -10,7 +10,7 @@ from bokeh.models import ColumnDataSource, HoverTool, LinearColorMapper, CustomJ
 import numpy as np
 from bokeh.models.widgets import Panel, Tabs
 from bokeh.models import Legend
-
+from bokeh.io import curdoc
 #### IMPORT FILES ######
 
 ### M25 ###
@@ -297,4 +297,4 @@ l = layout([[title], [presentation],
 
 
 l.sizing_mode = "scale_width"
-show(l)
+curdoc().add_root(l)
