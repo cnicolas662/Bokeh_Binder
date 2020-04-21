@@ -30,11 +30,13 @@ June_LR = pd.read_csv(join(dirname(__file__), 'data/Github_June_LinkRoads.csv'))
 September_LR = pd.read_csv(join(dirname(__file__), 'data/Github_September_LinkRoads.csv'))
 October_LR = pd.read_csv(join(dirname(__file__), 'data/Github_October_LinkRoads.csv'))
 
+sites = pd.read_excel(join(dirname(__file__), 'data/Junction_to_Junction.xlsx'))
+sites_LR = pd.read_csv(join(dirname(__file__), 'data/Detectors_with_infos.csv'))
+
 #########################
 
 def data_visualization(direction):
 
-    sites = pd.read_excel(join(dirname(__file__), 'data/Junction_to_Junction.xlsx'))
     Junctions = sites[sites["Direction"] ==direction]["Jct_to_Jct"].unique().tolist()
 
     TOOLTIPS = [("Hour", "$x{0.0}"),
@@ -136,8 +138,7 @@ def data_visualization(direction):
 
 def data_visualization_Link_Roads(direction):
 
-    sites = pd.read_csv(join(dirname(__file__), 'data/Detectors_with_infos.csv'))
-    Junctions = sites[sites["Direction"].isin(direction)]["Link Road"].unique().tolist()
+    Junctions = sites_LR[sites_LR["Direction"].isin(direction)]["Link Road"].unique().tolist()
 
     TOOLTIPS = [("Hour", "$x{0.0}"),
                     ("Volume", "@y{0,0}"), 
