@@ -298,5 +298,5 @@ l = layout([[title], [presentation],
 
 l.sizing_mode = "scale_width"
 
-curdoc().add_root(l)
+curdoc().add_root(tabs_M25CL)
 
