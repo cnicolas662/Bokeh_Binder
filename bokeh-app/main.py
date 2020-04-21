@@ -248,8 +248,6 @@ List2 = data_visualization("Anti-clockwise")
 List3 = data_visualization_Link_Roads(["Northbound", "Westbound"])
 List4 = data_visualization_Link_Roads(["Southbound", "Eastbound"])
 
-output_file("Test_Github.html")
-
 tabs_M25CL = Tabs(tabs=List1)
 tabs_MACL = Tabs(tabs=List2)
 tabs_LR_NW = Tabs(tabs=List3)
@@ -294,7 +292,7 @@ l = layout([[title], [presentation],
     [tabs_LR_NW,tabs_LR_SE],
 ])
 
-
-
 l.sizing_mode = "scale_width"
+
 curdoc().add_root(l)
+curdoc().title = "Test"
