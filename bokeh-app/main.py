@@ -21,25 +21,24 @@ folder = "data"
 
 ### M25 ###
 March_M25 = pd.read_csv(join(dirname(__file__), 'data/Github_March_M25.csv'))
-  
-April_M25 = pd.read_csv(os.path.join(folder, 'Github_April_M25.csv'))
-May_M25 = pd.read_csv(os.path.join(folder, 'Github_May_M25.csv'))
-June_M25 = pd.read_csv(os.path.join(folder, 'Github_June_M25.csv'))
-September_M25 = pd.read_csv(os.path.join(folder, 'Github_September_M25.csv'))
-October_M25 = pd.read_csv(os.path.join(folder, 'Github_October_M25.csv'))
+April_M25 = pd.read_csv(join(dirname(__file__), 'data/Github_April_M25.csv'))
+May_M25 = pd.read_csv(join(dirname(__file__), 'data/Github_May_M25.csv'))
+June_M25 = pd.read_csv(join(dirname(__file__), 'data/Github_June_M25.csv'))
+September_M25 = pd.read_csv(join(dirname(__file__), 'data/Github_September_M25.csv'))
+October_M25 = pd.read_csv(join(dirname(__file__), 'data/Github_October_M25.csv'))
 
 ### Link Roads ###
 
-March_LR = pd.read_csv(os.path.join(folder, 'Github_March_LinkRoads.csv'))
-April_LR = pd.read_csv(os.path.join(folder, 'Github_April_LinkRoads.csv'))
-May_LR = pd.read_csv(os.path.join(folder, 'Github_May_LinkRoads.csv'))
-June_LR = pd.read_csv(os.path.join(folder, 'Github_June_LinkRoads.csv'))
-September_LR = pd.read_csv(os.path.join(folder, 'Github_September_LinkRoads.csv'))
-October_LR = pd.read_csv(os.path.join(folder, 'Github_October_LinkRoads.csv'))
+March_LR = pd.read_csv(join(dirname(__file__), 'data/Github_March_LinkRoads.csv'))
+April_LR = pd.read_csv(join(dirname(__file__), 'data/Github_April_LinkRoads.csv'))
+May_LR = pd.read_csv(join(dirname(__file__), 'data/Github_May_LinkRoads.csv'))
+June_LR = pd.read_csv(join(dirname(__file__), 'data/Github_June_LinkRoads.csv'))
+September_LR = pd.read_csv(join(dirname(__file__), 'data/Github_September_LinkRoads.csv'))
+October_LR = pd.read_csv(join(dirname(__file__), 'data/Github_October_LinkRoads.csv'))
 
-              
-sites = pd.read_excel(os.path.join(folder, 'Junction_to_Junction.xlsx'))
-sites_LR = pd.read_csv(os.path.join(folder, 'Detectors_with_infos.csv'))
+    
+sites = pd.read_excel(join(dirname(__file__), 'data/Junction_to_Junction.xlsx'))
+sites_LR = pd.read_csv(join(dirname(__file__), 'data/Detectors_with_infos.csv') )
 
 #########################
 
