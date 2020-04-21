@@ -1,0 +1,222 @@
+Link Road,Detector_Name,Id,Name,Description,Longitude,Latitude,Status,Direction
+A2,A2/8285A,2217,MIDAS site at A2/8285A priority 1 on link 104036201; GPS Ref: 555735;172087; Eastbound,A2/8285A,0.238701325,51.42639653,Active,Eastbound
+A2,A2/8289A,3915,MIDAS site at A2/8289A priority 1 on link 104036201; GPS Ref: 556022;172163; Eastbound,A2/8289A,0.242859609,51.42700035,Active,Eastbound
+A2,A2/8291A,1651,MIDAS site at A2/8291A priority 1 on link 200045586; GPS Ref: 556215;172197; Eastbound,A2/8291A,0.245648466,51.42725262,Active,Eastbound
+A2,6047/2,7792,TMU Site 6047/2 on link A2 westbound within the A2018 junction; GPS Ref: 551664;172936; Westbound,6047/2,0.180552333,51.43512815,Active,Westbound
+A2,6047/1,7793,TMU Site 6047/1 on link A2 westbound exit for A2018; GPS Ref: 551657;172916; Westbound,6047/1,0.180443142,51.43495032,Active,Westbound
+A2,6048/2,7794,TMU Site 6048/2 on link A2 eastbound within the A2018 junction; GPS Ref: 551306;173218; Eastbound,6048/2,0.175526231,51.43775752,Active,Eastbound
+A2,6048/1,7795,TMU Site 6048/1 on link A2 eastbound exit for A2018; GPS Ref: 551320;173234; Eastbound,6048/1,0.175734339,51.43789755,Active,Eastbound
+A2,6175/1,8977,TMU Site 6175/1 on link A2 westbound access from A2018; GPS Ref: 551362;173119; Westbound,6175/1,0.176289026,51.43685306,Active,Westbound
+A20,6176/1,8978,TMU Site 6176/1 on link A20 eastbound between A223 and M25/M20; GPS Ref: 548697;170000; Eastbound,6176/1,0.136668554,51.40953224,Active,Eastbound
+A20,6177/1,8979,TMU Site 6177/1 on link A20 westbound between B2173 and A223; GPS Ref: 548948;169993; Westbound,6177/1,0.140271907,51.40940352,Active,Westbound
+M20,M20/6404J,918,MIDAS site at M20/6404J priority 1 on link 104017801; GPS Ref: 559813;160097; Eastbound,M20/6404J,0.291920884,51.31753739,Active,Eastbound
+M20,M20/6282J,2359,MIDAS site at M20/6282J priority 1 on link 104017402; GPS Ref: 552492;167884; Eastbound,M20/6282J,0.190284496,51.3895129,Active,Eastbound
+M20,M20/6404A,4367,MIDAS site at M20/6404A priority 1 on link 104028301; GPS Ref: 559795;160052; Eastbound,M20/6404A,0.291642651,51.31713814,Active,Eastbound
+M20,M20/6287K,4453,MIDAS site at M20/6287K priority 1 on link 104026902; GPS Ref: 552950;167746; Eastbound,M20/6287K,0.196802676,51.38814967,Active,Eastbound
+M20,M20/6422B,4771,MIDAS site at M20/6422B priority 1 on link 104028501; GPS Ref: 561560;159361; Westbound,M20/6422B,0.316635145,51.31043184,Active,Westbound
+M20,M20/6422M,4870,MIDAS site at M20/6422M priority 1 on link 104028502; GPS Ref: 561555;159349; Westbound,M20/6422M,0.316558037,51.31032545,Active,Westbound
+M20,M20/6282M,5322,MIDAS site at M20/6282M priority 1 on link 104016802; GPS Ref: 552405;167836; Westbound,M20/6282M,0.189014471,51.38910498,Active,Westbound
+M20,M20/6282A,5724,MIDAS site at M20/6282A priority 1 on link 104026901; GPS Ref: 552457;167869; Eastbound,M20/6282A,0.189775411,51.38938753,Active,Eastbound
+M20,M20/6282B,5729,MIDAS site at M20/6282B priority 1 on link 104016801; GPS Ref: 552438;167856; Westbound,M20/6282B,0.18949697,51.38927582,Active,Westbound
+M20,M20/6289L,5954,MIDAS site at M20/6289L priority 1 on link 104017101; GPS Ref: 553106;167599; Westbound,M20/6289L,0.198979668,51.38678675,Active,Westbound
+M26,6022/2,7900,TMU Site 6022/2 on link M26 eastbound within J2A; GPS Ref: 562430;158330; Eastbound,6022/2,0.328637554,51.30092145,Active,Eastbound
+M26,6022/1,7901,TMU Site 6022/1 on link M26 J2A eastbound exit; GPS Ref: 562426;158349; Eastbound,6022/1,0.328588869,51.30109329,Active,Eastbound
+M26,6021/1,7902,TMU Site 6021/1 on link M26 J2A westbound exit; GPS Ref: 563176;158558; Westbound,6021/1,0.339433436,51.30275677,Active,Westbound
+M26,6074/1,8915,TMU Site 6074/1 on link M26 westbound between J2A and M25/A21; GPS Ref: 550180;157290; Westbound,6074/1,0.152617693,51.29493766,Active,Westbound
+A21,5853/1,7678,TMU Site 5853/1 on link A21 southbound exit for M25/A25; GPS Ref: 550120;155605; Southbound,5853/1,0.151049747,51.2798127,Active,Southbound
+A21,5855/2,7679,TMU Site 5855/2 on link A21 northbound within the M25/A25 junction before A25 eastbound exit; GPS Ref: 549985;155722; Northbound,5855/2,0.149164683,51.28089954,Active,Northbound
+A21,5855/1,7680,TMU Site 5855/1 on link A21 northbound exit for A25 westbound; GPS Ref: 549974;155705; Northbound,5855/1,0.148999946,51.28074968,Active,Northbound
+A21,5854/1,7681,TMU Site 5854/1 on link A21 northbound exit for A25 eastbound; GPS Ref: 549829;155897; Northbound,5854/1,0.147002963,51.28251303,Active,Northbound
+A21,5856/2,7682,TMU Site 5856/2 on link A21 southbound within the M25/A25 junction before A25 westbound exit; GPS Ref: 549903;155854; Southbound,5856/2,0.148045198,51.2821072,Active,Southbound
+M23,6169/1,8972,TMU Site 6169/1 on link M23 northbound between J8 and J7; GPS Ref: 528689;154987; Northbound,6169/1,-0.156265586,51.27949911,Active,Northbound
+M23,6170/1,8973,TMU Site 6170/1 on link M23 southbound between J7 and J8; GPS Ref: 529051;154410; Southbound,6170/1,-0.151286469,51.27423166,Active,Southbound
+M23,7007/1,9267,TMU Site 7007/1 on M23 southbound within J8; GPS Ref: 530770;153130; Southbound,7007/1,-0.127124439,51.26233631,Active,Southbound
+M23,M23/3311K,10332,MIDAS site at M23/3311K priority 1 on link 200116854; GPS Ref: 530999;153109; Southbound,M23/3311K,-0.123851864,51.26209501,Active,Southbound
+M23,M23/3312M,10520,MIDAS site at M23/3312M priority 1 on link 103066201; GPS Ref: 530431;153507; Northbound,M23/3312M,-0.131843083,51.26580216,Active,Northbound
+A3,A3/0131B,562,MIDAS site at A3/0131B priority 1 on link 103035402; GPS Ref: 507913;158972; Northbound,A3/0131B,-0.45281567,51.31962757,Active,Northbound
+A3,A3/0125J,720,MIDAS site at A3/0125J priority 1 on link 103035002; GPS Ref: 508202;159450; Southbound,A3/0125J,-0.448525201,51.32386927,Active,Southbound
+A3,A3/0124A,2516,MIDAS site at A3/0124A priority 1 on link 103035002; GPS Ref: 508245;159546; Southbound,A3/0124A,-0.447879216,51.32472399,Active,Southbound
+A3,A3/0128L,3503,MIDAS site at A3/0128L priority 1 on link 103035402; GPS Ref: 507996;159195; Northbound,A3/0128L,-0.451557616,51.32161628,Active,Northbound
+A3,5534/2,7559,TMU Site 5534/2 on link A3 southbound between B2039 and A247; GPS Ref: 506461;157701; Southbound,5534/2,-0.47402318,51.30847614,Active,Southbound
+A3,5534/1,7560,TMU Site 5534/1 on link A3 southbound exit for B2039; GPS Ref: 506476;157697; Southbound,5534/1,-0.473809251,51.30843739,Active,Southbound
+A3,6001/2,7800,TMU Site 6001/2 on link A3 northbound within the M25 junction; GPS Ref: 507954;159042; Northbound,6001/2,-0.452206375,51.320249,Active,Northbound
+A3,6001/1,7801,TMU Site 6001/1 on link A3 northbound exit for M25; GPS Ref: 507938;159049; Northbound,6001/1,-0.452433778,51.32031495,Active,Northbound
+A3,6002/1,7802,TMU Site 6002/1 on link A3 southbound within the M25 junction; GPS Ref: 508205;159487; Southbound,6002/1,-0.448470949,51.32420127,Active,Southbound
+A3,6003/2,7878,TMU Site 6003/2 on link A3 northbound within the A245 junction; GPS Ref: 509371;160541; Northbound,6003/2,-0.431420481,51.33345243,Active,Northbound
+A3,6003/1,7879,TMU Site 6003/1 on link A3 northbound exit for A245; GPS Ref: 509361;160559; Northbound,6003/1,-0.431558453,51.33361614,Active,Northbound
+A3,6004/2,7880,TMU Site 6004/2 on link A3 southbound within the A245 junction; GPS Ref: 509827;160815; Southbound,6004/2,-0.424793058,51.33582751,Active,Southbound
+A3,6004/1,7881,TMU Site 6004/1 on link A3 southbound exit for A245; GPS Ref: 509842;160804; Southbound,6004/1,-0.4245812,51.33572575,Active,Southbound
+A3,6005/2,7882,TMU Site 6005/2 on link A3 northbound within the A244 junction; GPS Ref: 513857;162288; Northbound,6005/2,-0.366496281,51.34827523,Active,Northbound
+A3,6005/1,7883,TMU Site 6005/1 on link A3 northbound exit for A244; GPS Ref: 513847;162303; Northbound,6005/1,-0.366635021,51.34841205,Active,Northbound
+A3,6006/2,7884,TMU Site 6006/2 on link A3 southbound within the A244 junction; GPS Ref: 514366;162411; Southbound,6006/2,-0.359151042,51.3492786,Active,Southbound
+A3,6006/1,7885,TMU Site 6006/1 on link A3 southbound exit for A244; GPS Ref: 514373;162395; Southbound,6006/1,-0.359055704,51.34913339,Active,Southbound
+A3,6168/1,7886,TMU Site 6168/1 on link A3 northbound between A244 and A309; GPS Ref: 517344;165291; Northbound,6168/1,-0.315458964,51.37455684,Active,Northbound
+M3,M3/1342B,14424,MIDAS site at M3/1342B priority 1 on link 103049701; GPS Ref: 501692;167845; Eastbound,M3/1342B,-0.539523866,51.40053107,Active,Eastbound
+M3,M3/1346A,14429,MIDAS site at M3/1346A priority 1 on link 103049102; GPS Ref: 501315;167715; Westbound,M3/1346A,-0.54497839,51.39942998,Active,Westbound
+M3,M3/1343M,14432,MIDAS site at M3/1343M priority 1 on link 103048702; GPS Ref: 501624;167791; Westbound,M3/1343M,-0.540516456,51.40005786,Active,Westbound
+M3,M3/1337M,14433,MIDAS site at M3/1337M priority 1 on link 103049901; GPS Ref: 502168;167880; Westbound,M3/1337M,-0.532673723,51.40076015,Active,Westbound
+M3,M3/1359B,14437,MIDAS site at M3/1359B priority 1 on link 103049201; GPS Ref: 500236;166985; Eastbound,M3/1359B,-0.560689336,51.39305967,Active,Eastbound
+M3,M3/1346J,14449,MIDAS site at M3/1346J priority 1 on link 103048701; GPS Ref: 501458;167741; Westbound,M3/1346J,-0.542916114,51.39963814,Active,Westbound
+M3,M3/1351B,14458,MIDAS site at M3/1351B priority 1 on link 103049201; GPS Ref: 500851;167493; Eastbound,M3/1351B,-0.551708958,51.3975171,Active,Eastbound
+M3,M3/1337A,14463,MIDAS site at M3/1337A priority 1 on link 103049102; GPS Ref: 502175;167899; Westbound,M3/1337A,-0.532567672,51.40092968,Active,Westbound
+M3,M3/1359A,14470,MIDAS site at M3/1359A priority 1 on link 103048301; GPS Ref: 500255;166976; Westbound,M3/1359A,-0.56041888,51.39297542,Active,Westbound
+M3,M3/1370A,14477,MIDAS site at M3/1370A priority 1 on link 103048301; GPS Ref: 499332;166389; Westbound,M3/1370A,-0.573844506,51.38786112,Active,Westbound
+M3,M3/1354A,14494,MIDAS site at M3/1354A priority 1 on link 103048301; GPS Ref: 500630;167284; Westbound,M3/1354A,-0.554943738,51.39567765,Active,Westbound
+M3,M3/1337B,14496,MIDAS site at M3/1337B priority 1 on link 103049701; GPS Ref: 502185;167919; Eastbound,M3/1337B,-0.532418222,51.40110765,Active,Eastbound
+M3,M3/1346K,14498,MIDAS site at M3/1346K priority 1 on link 103048801; GPS Ref: 501316;167752; Eastbound,M3/1346K,-0.544953477,51.39976239,Active,Eastbound
+M3,M3/1356B,14501,MIDAS site at M3/1356B priority 1 on link 103049201; GPS Ref: 500470;167171; Eastbound,M3/1356B,-0.557274675,51.39469024,Active,Eastbound
+M3,M3/1351L,14506,MIDAS site at M3/1351L priority 1 on link 103049201; GPS Ref: 500855;167496; Eastbound,M3/1351L,-0.55165063,51.39754336,Active,Eastbound
+M3,M3/1346M,14507,MIDAS site at M3/1346M priority 1 on link 103048702; GPS Ref: 501470;167752; Westbound,M3/1346M,-0.542740538,51.39973487,Active,Westbound
+M3,M3/1346B,14513,MIDAS site at M3/1346B priority 1 on link 103049701; GPS Ref: 501325;167739; Eastbound,M3/1346B,-0.544827854,51.39964393,Active,Eastbound
+M3,M3/1370B,14525,MIDAS site at M3/1370B priority 1 on link 103049201; GPS Ref: 499316;166402; Eastbound,M3/1370B,-0.57407074,51.38798078,Active,Eastbound
+M3,M3/1351A,14538,MIDAS site at M3/1351A priority 1 on link 103048301; GPS Ref: 500864;167477; Westbound,M3/1351A,-0.551526696,51.39737097,Active,Westbound
+M3,M3/1356L,14543,MIDAS site at M3/1356L priority 1 on link 103049201; GPS Ref: 500476;167178; Eastbound,M3/1356L,-0.557186486,51.3947521,Active,Eastbound
+M3,M3/1364A,14545,MIDAS site at M3/1364A priority 1 on link 103048301; GPS Ref: 499848;166690; Westbound,M3/1364A,-0.566346946,51.3904763,Active,Westbound
+M3,M3/1364B,14561,MIDAS site at M3/1364B priority 1 on link 103049201; GPS Ref: 499835;166704; Eastbound,M3/1364B,-0.566529791,51.39060443,Active,Eastbound
+M3,M3/1342A,14579,MIDAS site at M3/1342A priority 1 on link 103049102; GPS Ref: 501683;167824; Westbound,M3/1342A,-0.539659201,51.40034392,Active,Westbound
+A30,6181/1,9004,TMU Site 6181/1 on link A30 westbound between A315 and B378; GPS Ref: 507762;173250; Westbound,6181/1,-0.450655449,51.44799358,Active,Westbound
+A30,6178/1,9005,TMU Site 6178/1 on link A30 eastbound between M25 and A308; GPS Ref: 503803;172261; Eastbound,6178/1,-0.507896081,51.43984298,Active,Eastbound
+A30,6180/1,9006,TMU Site 6180/1 on link A30 eastbound between B378 and A315; GPS Ref: 507750;173260; Eastbound,6180/1,-0.450825028,51.44808575,Active,Eastbound
+A30,6179/1,9007,TMU Site 6179/1 on link A30 westbound between A308 and M25; GPS Ref: 503846;172236; Westbound,6179/1,-0.507284948,51.43961039,Active,Westbound
+A3113,7044/1,9368,TMU Site 7044/1 on A3113 eastbound between M25 and A3044; GPS Ref: 504388;175287; Eastbound,7044/1,-0.498590705,51.46693541,Active,Eastbound
+A3113,7045/1,9369,TMU Site 7045/1 on A3113 westbound between A3044 and M25; GPS Ref: 504384;175271; Westbound,7045/1,-0.498652988,51.46679233,Active,Westbound
+M4 J2-3,M4/2156A,6222,MIDAS site at M4/2156A priority 1 on link 125039601; GPS Ref: 516358;178416; Westbound,M4/2156A,-0.32531212,51.49272538,Active,Westbound
+M4 J2-3,M4/2168A,2316,MIDAS site at M4/2168A priority 1 on link 123012302; GPS Ref: 515032;178680; Westbound,M4/2168A,-0.344317875,51.49536925,Active,Westbound
+M4 J2-3,M4/2178A,3678,MIDAS site at M4/2178A priority 1 on link 123012302; GPS Ref: 514047;178404; Westbound,M4/2178A,-0.358589977,51.49308791,Active,Westbound
+M4 J2-3,M4/2188A,236,MIDAS site at M4/2188A priority 1 on link 123012302; GPS Ref: 513289;178010; Westbound,M4/2188A,-0.369630212,51.48969885,Active,Westbound
+M4 J2-3,M4/2193A,345,MIDAS site at M4/2193A priority 3 on link 123012302; GPS Ref: 512897;177927; Westbound,M4/2193A,-0.375300441,51.4890312,Active,Westbound
+M4 J2-3,M4/2200A,2747,MIDAS site at M4/2200A priority 1 on link 123012302; GPS Ref: 512266;177775; Westbound,M4/2200A,-0.384433269,51.48779064,Active,Westbound
+M4 J2-3,M4/2206A,4496,MIDAS site at M4/2206A priority 2 on link 123012401; GPS Ref: 511693;177809; Westbound,M4/2206A,-0.392671949,51.48820962,Active,Westbound
+M4 J2-3,M4/2210A,2598,MIDAS site at M4/2210A priority 1 on link 199128802; GPS Ref: 511258;177968; Westbound,M4/2210A,-0.398884675,51.48972442,Active,Westbound
+M4 J2-3,M4/2156B,6209,MIDAS site at M4/2156B priority 1 on link 200127245; GPS Ref: 516367;178428; Eastbound,M4/2156B,-0.325178584,51.49283138,Active,Eastbound
+M4 J2-3,M4/2162B,949,MIDAS site at M4/2162B priority 1 on link 200127243; GPS Ref: 515638;178759; Eastbound,M4/2162B,-0.335566303,51.49595579,Active,Eastbound
+M4 J2-3,M4/2168B,455,MIDAS site at M4/2168B priority 1 on link 125039801; GPS Ref: 515030;178698; Eastbound,M4/2168B,-0.344340809,51.49553144,Active,Eastbound
+M4 J2-3,M4/2173B,5102,MIDAS site at M4/2173B priority 5 on link 125039801; GPS Ref: 514507;178620; Eastbound,M4/2173B,-0.351896769,51.49493644,Active,Eastbound
+M4 J2-3,M4/2178B,1109,MIDAS site at M4/2178B priority 1 on link 125039801; GPS Ref: 514036;178415; Eastbound,M4/2178B,-0.358744807,51.493189,Active,Eastbound
+M4 J2-3,M4/2183B,5408,MIDAS site at M4/2183B priority 2 on link 125039801; GPS Ref: 513606;178141; Eastbound,M4/2183B,-0.365024184,51.49081275,Active,Eastbound
+M4 J2-3,M4/2188B,110,MIDAS site at M4/2188B priority 1 on link 125039801; GPS Ref: 513275;178026; Eastbound,M4/2188B,-0.369826644,51.48984546,Active,Eastbound
+M4 J2-3,M4/2193B,5146,MIDAS site at M4/2193B priority 3 on link 125039801; GPS Ref: 512881;177942; Eastbound,M4/2193B,-0.375526003,51.48916922,Active,Eastbound
+M4 J2-3,M4/2197B,3138,MIDAS site at M4/2197B priority 4 on link 125039801; GPS Ref: 512499;177838; Eastbound,M4/2197B,-0.381058794,51.48831058,Active,Eastbound
+M4 J2-3,M4/2200B,4324,MIDAS site at M4/2200B priority 1 on link 123012201; GPS Ref: 512218;177788; Eastbound,M4/2200B,-0.385120183,51.48791701,Active,Eastbound
+M4 J2-3,M4/2206B,1240,MIDAS site at M4/2206B priority 2 on link 123012201; GPS Ref: 511747;177817; Eastbound,M4/2206B,-0.391891976,51.48827087,Active,Eastbound
+M4 J2-3,M4/2210B,2243,MIDAS site at M4/2210B priority 1 on link 123012101; GPS Ref: 511261;177987; Eastbound,M4/2210B,-0.398835503,51.4898946,Active,Eastbound
+M4 J3-4,M4/2233A,5175,MIDAS site at M4/2233A priority 1 on link 199127301; GPS Ref: 509044;178359; Westbound,M4/2233A,-0.430640747,51.49367002,Active,Westbound
+M4 J3-4,M4/2240A,1138,MIDAS site at M4/2240A priority 1 on link 199127301; GPS Ref: 508641;178399; Westbound,M4/2240A,-0.43643119,51.49410716,Active,Westbound
+M4 J3-4,M4/2233B,3301,MIDAS site at M4/2233B priority 1 on link 199128901; GPS Ref: 509047;178376; Eastbound,M4/2233B,-0.430592305,51.49382224,Active,Eastbound
+M4 J3-4,M4/2240B,2806,MIDAS site at M4/2240B priority 1 on link 199128901; GPS Ref: 508641;178417; Eastbound,M4/2240B,-0.436425654,51.49426895,Active,Eastbound
+M4 J4-4b,M4/2259A,1017,MIDAS site at M4/2259A priority 1 on link 199000301; GPS Ref: 506348;178430; Westbound,M4/2259A,-0.469439009,51.49482157,Active,Westbound
+M4 J4-4b,M4/2264A,3452,MIDAS site at M4/2264A priority 1 on link 199000301; GPS Ref: 505851;178368; Westbound,M4/2264A,-0.476614255,51.4943575,Active,Westbound
+M4 J4b-5,M4/2288A,4389,MIDAS site at M4/2288A priority 3 on link 105009001; GPS Ref: 503517;178208; Westbound,M4/2288A,-0.510270364,51.49335116,Active,Westbound
+M4 J4b-5,M4/2291A,2546,MIDAS site at M4/2291A priority 1 on link 105009001; GPS Ref: 503226;178162; Westbound,M4/2291A,-0.514474061,51.49299084,Active,Westbound
+M4 J4b-5,M4/2295A,4904,MIDAS site at M4/2295A priority 1 on link 105009001; GPS Ref: 502821;178156; Westbound,M4/2295A,-0.520307561,51.49301063,Active,Westbound
+M4 J4b-5,M4/2295A6,2302,MIDAS site at M4/2295A6 priority 1 on link 105009001; GPS Ref: 502816;178156; Westbound,M4/2295A6,-0.520379558,51.49301154,Active,Westbound
+M4 J4b-5,M4/2295A4,3149,MIDAS site at M4/2295A4 priority 1 on link 105009001; GPS Ref: 502816;178156; Westbound,M4/2295A4,-0.520379558,51.49301154,Active,Westbound
+M4 J4b-5,M4/2298A,1985,MIDAS site at M4/2298A priority 2 on link 105009001; GPS Ref: 502520;178160; Westbound,M4/2298A,-0.524640626,51.49310119,Active,Westbound
+M4 J4b-5,M4/2301A,4121,MIDAS site at M4/2301A priority 4 on link 105009001; GPS Ref: 502210;178161; Westbound,M4/2301A,-0.529104177,51.49316624,Active,Westbound
+M4 J4b-5,M4/2305A,1481,MIDAS site at M4/2305A priority 5 on link 105009001; GPS Ref: 501838;178126; Westbound,M4/2305A,-0.534470939,51.49291871,Active,Westbound
+M4 J4-5,M4/2288B,5822,MIDAS site at M4/2288B priority 4 on link 199003201; GPS Ref: 503512;178226; Eastbound,M4/2288B,-0.510337083,51.49351387,Active,Eastbound
+M4 J4-5,M4/2291B,5784,MIDAS site at M4/2291B priority 2 on link 199003201; GPS Ref: 503225;178180; Eastbound,M4/2291B,-0.514483198,51.49315281,Active,Eastbound
+M4 J4-5,M4/2295B,5145,MIDAS site at M4/2295B priority 1 on link 199003201; GPS Ref: 502821;178174; Eastbound,M4/2295B,-0.52030232,51.49317242,Active,Eastbound
+M4 J4-5,M4/2298B,3189,MIDAS site at M4/2298B priority 1 on link 199003201; GPS Ref: 502519;178179; Eastbound,M4/2298B,-0.524649511,51.49327215,Active,Eastbound
+M4 J4-5,M4/2302B,121,MIDAS site at M4/2302B priority 3 on link 199003201; GPS Ref: 502117;178175; Eastbound,M4/2302B,-0.530439285,51.49330887,Active,Eastbound
+M4 J4-5,M4/2305B,2353,MIDAS site at M4/2305B priority 5 on link 199003201; GPS Ref: 501836;178145; Eastbound,M4/2305B,-0.534494262,51.49308985,Active,Eastbound
+A405,6133/1,7887,TMU Site 6133/1 on link A405 northbound between M1 and M25; GPS Ref: 512533;202933; Northbound,6133/1,-0.372523099,51.71385457,Active,Northbound
+A405,6134/1,7888,TMU Site 6134/1 on link A405 southbound between M25 and M1; GPS Ref: 512570;202954; Southbound,6134/1,-0.371981021,51.71403589,Active,Southbound
+A405,6007/2,9066,TMU Site 6007/2 on link A405 northbound within the M1 junction; GPS Ref: 511912;202069; Northbound,6007/2,-0.381785023,51.70621352,Active,Northbound
+A405,6007/1,9522,TMU Site 6007/1 on link A405 southbound within the M1 junction; GPS Ref: 511929;202063; Southbound,6007/1,-0.38154102,51.7061562,Active,Southbound
+M1 J1-2,M1/2114A,2339,MIDAS site at M1/2114A priority 1 on link 200109235; GPS Ref: 522454;187693; Northbound,M1/2114A,-0.234320299,51.57481571,Active,Northbound
+M1 J1-2,M1/2149A,4281,MIDAS site at M1/2149A priority 1 on link 199112202; GPS Ref: 521996;190920; Northbound,M1/2149A,-0.239805769,51.60391654,Active,Northbound
+M1 J1-2,M1/2116B,1429,MIDAS site at M1/2116B priority 1 on link 199109602; GPS Ref: 522416;187767; Southbound,M1/2116B,-0.234842572,51.57548902,Active,Southbound
+M1 J1-2,M1/2147B,4235,MIDAS site at M1/2147B priority 1 on link 126043501; GPS Ref: 522119;190739; Southbound,M1/2147B,-0.238093425,51.60226329,Active,Southbound
+M1 J2-4,M1/2155A,10054,MIDAS site at M1/2155A priority 1 on link 123012901; GPS Ref: 521674;191421; Northbound,M1/2155A,-0.244279711,51.60848847,Active,Northbound
+M1 J2-4,M1/2190A,9784,MIDAS site at M1/2190A priority 1 on link 123013001; GPS Ref: 519967;194457; Northbound,M1/2190A,-0.267880787,51.63613931,Active,Northbound
+M1 J2-4,M1/2195A,9989,MIDAS site at M1/2195A priority 1 on link 199111903; GPS Ref: 519530;194647; Northbound,M1/2195A,-0.27412733,51.63793998,Active,Northbound
+M1 J2-4,M1/2216A,2246,MIDAS site at M1/2216A priority 1 on link 199111903; GPS Ref: 517488;194364; Northbound,M1/2216A,-0.303715342,51.63582668,Active,Northbound
+M1 J2-4,M1/2176B,9789,MIDAS site at M1/2176B priority 1 on link 199112102; GPS Ref: 520564;193178; Southbound,M1/2176B,-0.259698715,51.62451687,Active,Southbound
+M1 J2-4,M1/2181B,9766,MIDAS site at M1/2181B priority 1 on link 199112102; GPS Ref: 520373;193668; Southbound,M1/2181B,-0.262288297,51.6289615,Active,Southbound
+M1 J2-4,M1/2185B,9822,MIDAS site at M1/2185B priority 1 on link 123013201; GPS Ref: 520286;194059; Southbound,M1/2185B,-0.263410314,51.63249418,Active,Southbound
+M1 J2-4,M1/2215B,1867,MIDAS site at M1/2215B priority 1 on link 123013101; GPS Ref: 517598;194349; Southbound,M1/2215B,-0.302131663,51.63566889,Active,Southbound
+M1 J4-5,M1/2220A,5094,MIDAS site at M1/2220A priority 1 on link 108024801; GPS Ref: 517107;194508; Northbound,M1/2220A,-0.309169946,51.63720032,Active,Northbound
+M1 J4-5,M1/2223A,556,MIDAS site at M1/2223A priority 1 on link 108024801; GPS Ref: 516835;194636; Northbound,M1/2223A,-0.31305585,51.63840728,Active,Northbound
+M1 J4-5,M1/2228A,2272,MIDAS site at M1/2228A priority 1 on link 108024801; GPS Ref: 516400;194896; Northbound,M1/2228A,-0.319252496,51.64083424,Active,Northbound
+M1 J4-5,M1/2233A,6130,MIDAS site at M1/2233A priority 1 on link 108024801; GPS Ref: 516000;195202; Northbound,M1/2233A,-0.324928976,51.6436671,Active,Northbound
+M1 J4-5,M1/2248A,4093,MIDAS site at M1/2248A priority 1 on link 108024801; GPS Ref: 514768;195958; Northbound,M1/2248A,-0.342478144,51.65071456,Active,Northbound
+M1 J4-5,M1/2253A,1752,MIDAS site at M1/2253A priority 1 on link 108024801; GPS Ref: 514649;196476; Northbound,M1/2253A,-0.344027749,51.65539451,Active,Northbound
+M1 J4-5,M1/2220B,591,MIDAS site at M1/2220B priority 1 on link 199111802; GPS Ref: 517121;194522; Southbound,M1/2220B,-0.308963058,51.63732324,Active,Southbound
+M1 J4-5,M1/2223B,3203,MIDAS site at M1/2223B priority 1 on link 199111802; GPS Ref: 516853;194647; Southbound,M1/2223B,-0.312792193,51.63850241,Active,Southbound
+M1 J4-5,M1/2228B,2370,MIDAS site at M1/2228B priority 1 on link 199111802; GPS Ref: 516423;194903; Southbound,M1/2228B,-0.318917944,51.64089239,Active,Southbound
+M1 J4-5,M1/2232B,1754,MIDAS site at M1/2232B priority 1 on link 199111802; GPS Ref: 516106;195140; Southbound,M1/2232B,-0.323418311,51.64308799,Active,Southbound
+M1 J4-5,M1/2241B,9631,MIDAS site at M1/2241B priority 1 on link 125038801; GPS Ref: 515296;195524; Southbound,M1/2241B,-0.334992628,51.64670588,Active,Southbound
+M1 J4-5,M1/2247B,442,MIDAS site at M1/2247B priority 1 on link 125038701; GPS Ref: 514834;195872; Southbound,M1/2247B,-0.341552799,51.64992813,Active,Southbound
+M1 J4-5,M1/2252B,3589,MIDAS site at M1/2252B priority 1 on link 125038701; GPS Ref: 514682;196369; Southbound,M1/2252B,-0.343585986,51.65442609,Active,Southbound
+M1 J5-6,M1/2293A,4832,MIDAS site at M1/2293A priority 1 on link 108023801; GPS Ref: 512314;199619; Northbound,M1/2293A,-0.376758122,51.68411386,Active,Northbound
+M1 J5-6,M1/2297A,2247,MIDAS site at M1/2297A priority 1 on link 108023801; GPS Ref: 512317;200018; Northbound,M1/2297A,-0.376586401,51.68769927,Active,Northbound
+M1 J5-6,M1/2301A,5150,MIDAS site at M1/2301A priority 1 on link 108023801; GPS Ref: 512382;200424; Northbound,M1/2301A,-0.375515925,51.69133521,Active,Northbound
+M1 J5-6,M1/2292B,216,MIDAS site at M1/2292B priority 1 on link 108025001; GPS Ref: 512350;199509; Southbound,M1/2292B,-0.376273045,51.68311805,Active,Southbound
+M1 J5-6,M1/2297B,2857,MIDAS site at M1/2297B priority 1 on link 108025001; GPS Ref: 512336;200006; Southbound,M1/2297B,-0.376315546,51.68758762,Active,Southbound
+M1 J5-6,M1/2302B,5371,MIDAS site at M1/2302B priority 1 on link 108025001; GPS Ref: 512410;200506; Southbound,M1/2302B,-0.375084647,51.69206659,Active,Southbound
+M1 J6-6a,M1/2332A,1430,MIDAS site at M1/2332A priority 1 on link 108024602; GPS Ref: 511624;203267; Northbound,M1/2332A,-0.385568308,51.71703804,Active,Northbound
+M1 J6-6a,M1/2335A,705,MIDAS site at M1/2335A priority 1 on link 108024602; GPS Ref: 511515;203657; Northbound,M1/2335A,-0.387021131,51.72056494,Active,Northbound
+M1 J6-6a,M1/2342A,3529,MIDAS site at M1/2342A priority 1 on link 200047543; GPS Ref: 511317;204326; Northbound,M1/2342A,-0.389673348,51.72661709,Active,Northbound
+M1 J6-6a,M1/2331B,3210,MIDAS site at M1/2331B priority 1 on link 108023701; GPS Ref: 511642;203293; Southbound,M1/2331B,-0.385299554,51.71726814,Active,Southbound
+M1 J6-6a,M1/2338B,1524,MIDAS site at M1/2338B priority 1 on link 108023701; GPS Ref: 511457;203940; Southbound,M1/2338B,-0.38777021,51.72312,Active,Southbound
+A1(M),A1M/9362B,154,MIDAS site at A1M/9362B priority 1 on link 108008701; GPS Ref: 522428;212344; Southbound,A1M/9362B,-0.226058503,51.79636041,Active,Southbound
+A1(M),A1M/9327B,762,MIDAS site at A1M/9327B priority 1 on link 108007501; GPS Ref: 521928;209139; Southbound,A1M/9327B,-0.234429547,51.76766652,Active,Southbound
+A1(M),A1M/9323A,826,MIDAS site at A1M/9323A priority 1 on link 108008901; GPS Ref: 521748;208781; Northbound,A1M/9323A,-0.237162268,51.76448827,Active,Northbound
+A1(M),A1M/9230L,1671,MIDAS site at A1M/9230L priority 1 on link 108003801; GPS Ref: 522667;200408; Southbound,A1M/9230L,-0.226799404,51.68903948,Active,Southbound
+A1(M),A1M/9317B,1852,MIDAS site at A1M/9317B priority 1 on link 108007501; GPS Ref: 521432;208235; Southbound,A1M/9317B,-0.24192996,51.75964984,Active,Southbound
+A1(M),A1M/9230K,1886,MIDAS site at A1M/9230K priority 1 on link 108007902; GPS Ref: 522599;200420; Northbound,A1M/9230K,-0.227778423,51.68916217,Active,Northbound
+A1(M),A1M/9230B,2278,MIDAS site at A1M/9230B priority 1 on link 108010501; GPS Ref: 522517;200141; Southbound,A1M/9230B,-0.229061857,51.68667267,Active,Southbound
+A1(M),A1M/9322B,2685,MIDAS site at A1M/9322B priority 1 on link 118012201; GPS Ref: 521717;208680; Southbound,A1M/9322B,-0.237646667,51.7635873,Active,Southbound
+A1(M),A1M/9328A,4494,MIDAS site at A1M/9328A priority 1 on link 108008901; GPS Ref: 521940;209229; Northbound,A1M/9328A,-0.234224116,51.76847275,Active,Northbound
+A1(M),A1M/9230A,5301,MIDAS site at A1M/9230A priority 1 on link 108007903; GPS Ref: 522628;200423; Northbound,A1M/9230A,-0.227358052,51.6891828,Active,Northbound
+A1(M),A1M/9362A,5813,MIDAS site at A1M/9362A priority 1 on link 108008501; GPS Ref: 522411;212337; Northbound,A1M/9362A,-0.226307363,51.79630121,Active,Northbound
+A1(M),A1M/9318A,6256,MIDAS site at A1M/9318A priority 1 on link 108008901; GPS Ref: 521479;208340; Northbound,A1M/9318A,-0.241212581,51.76058331,Active,Northbound
+A1(M),6131/3,7764,TMU Site 6131/3 on A1 southbound within the A5135 junction; GPS Ref: 521197;196659; Southbound,6131/3,-0.249352939,51.65566578,Active,Southbound
+A1(M),6131/1,7765,TMU Site 6131/1 on A1 southbound exit for A5135; GPS Ref: 521223;196669; Southbound,6131/1,-0.24897381,51.65575005,Active,Southbound
+A1(M),6131/2,7766,TMU Site 6131/2 on A1 southbound access from A5135; GPS Ref: 521218;196632; Southbound,6131/2,-0.249058882,51.6554186,Active,Southbound
+A1(M),6132/2,7767,TMU Site 6132/2 on link A1 northbound within the A5135 junction; GPS Ref: 521182;196669; Northbound,6132/2,-0.2495662,51.65575889,Active,Northbound
+A1(M),6132/1,7768,TMU Site 6132/1 on link A1 northbound exit for A5135; GPS Ref: 521167;196661; Northbound,6132/1,-0.249785701,51.65569023,Active,Northbound
+A1(M),6087/1,7769,TMU Site 6087/1 on link A1 northbound exit for M25/A1(M); GPS Ref: 522344;199805; Northbound,6087/1,-0.231680746,51.68369071,Active,Northbound
+A1(M),A1M/9363K,9609,MIDAS site at A1M/9363K priority 1 on link 108008502; GPS Ref: 522341;212420; Northbound,A1M/9363K,-0.227292661,51.79706243,Active,Northbound
+A1(M),A1M/9311A,10752,MIDAS site at A1M/9311A priority 1 on link 108007401; GPS Ref: 521220;207715; Northbound,A1M/9311A,-0.245181619,51.7550224,Active,Northbound
+A1(M),A1M/9331A,10765,MIDAS site at A1M/9331A priority 1 on link 108008901; GPS Ref: 522057;209480; Northbound,A1M/9331A,-0.232441122,51.77070304,Active,Northbound
+A1(M),A1M/9342B,17889,MIDAS site at A1M/9342B priority 1 on link 108008801; GPS Ref: 522679;210374; Southbound,A1M/9342B,-0.223115614,51.77860152,Active,Southbound
+A1(M),A1M/9316B,17893,MIDAS site at A1M/9316B priority 1 on link 108007501; GPS Ref: 521379;208144; Southbound,A1M/9316B,-0.242729303,51.75884349,Active,Southbound
+M11,M11/6232B,1848,MIDAS site at M11/6232B priority 1 on link 199063801; GPS Ref: 546841;199670; Southbound,M11/6232B,0.1223715,51.67661226,Active,Southbound
+M11,M11/6237K,3190,MIDAS site at M11/6237K priority 1 on link 199063303; GPS Ref: 547038;200074; Northbound,M11/6237K,0.125388503,51.68019088,Active,Northbound
+M11,M11/6237A,3798,MIDAS site at M11/6237A priority 1 on link 199063301; GPS Ref: 547048;200047; Northbound,M11/6237A,0.125521675,51.67994566,Active,Northbound
+M11,6172/1,8974,TMU Site 6172/1 on link M11 northbound between J4 and J5; GPS Ref: 541753;190954; Northbound,6172/1,0.045309097,51.59959822,Active,Northbound
+M11,6173/1,8975,TMU Site 6173/1 on link M11 southbound between J5 and J4; GPS Ref: 542073;192263; Southbound,6173/1,0.050456107,51.61127986,Active,Southbound
+M11,M11/6242B,9633,MIDAS site at M11/6242B priority 1 on link 199064203; GPS Ref: 547352;200417; Southbound,M11/6242B,0.130071434,51.68319065,Active,Southbound
+M11,M11/6242L,10098,MIDAS site at M11/6242L priority 1 on link 199063401; GPS Ref: 547366;200411; Southbound,M11/6242L,0.130271262,51.68313307,Active,Southbound
+M11,M11/6241A,10106,MIDAS site at M11/6241A priority 1 on link 199048801; GPS Ref: 547284;200350; Northbound,M11/6241A,0.12906031,51.68260645,Active,Northbound
+A1023,6251/2,7932,TMU Site 6251/2 on link A12 northbound within the A1023 junction; GPS Ref: 562013;196648; Northbound,6251/2,0.340215777,51.64529532,Active,Northbound
+A1023,6251/1,7933,TMU Site 6251/1 on link A12 northbound exit for A1023; GPS Ref: 562006;196655; Northbound,6251/1,0.340117935,51.64536022,Active,Northbound
+A1023,6252/2,7934,TMU Site 6252/2 on link A12 southbound within the A1023 junction; GPS Ref: 562443;196743; Southbound,6252/2,0.346469064,51.64602479,Active,Southbound
+A1023,6252/1,7935,TMU Site 6252/1 on link A12 southbound exit for A1023; GPS Ref: 562444;196721; Southbound,6252/1,0.346473299,51.64582686,Active,Southbound
+A13,6062/2,7772,TMU Site 6062/2 on link link road from A1089 northbound to A13 eastbound; GPS Ref: 563458;180694; Eastbound,6062/2,0.353666135,51.50154894,Active,Eastbound
+A1089,6062/2,7772,TMU Site 6062/2 on link link road from A1089 northbound to A13 eastbound; GPS Ref: 563458;180694; Eastbound,6062/2,0.353666135,51.50154894,Active,Eastbound
+A13,6062/1,7773,TMU Site 6062/1 on link link road from A1089 northbound to A13 westbound; GPS Ref: 563439;180687; Westbound,6062/1,0.35338939,51.50149153,Active,Westbound
+A1089,6062/1,7773,TMU Site 6062/1 on link link road from A1089 northbound to A13 westbound; GPS Ref: 563439;180687; Westbound,6062/1,0.35338939,51.50149153,Active,Westbound
+A13,6058/1,7778,TMU Site 6058/1 on link A13 westbound between A1012 and A126; GPS Ref: 559323;179785; Westbound,6058/1,0.293732359,51.49456173,Active,Westbound
+A13,6057/2,7779,TMU Site 6057/2 on link A13 eastbound between A126 and A1012; GPS Ref: 558846;179835; Eastbound,6057/2,0.286889347,51.49514506,Active,Eastbound
+A13,6057/1,7780,TMU Site 6057/1 on link A13 eastbound exit for A126; GPS Ref: 558844;179859; Eastbound,6057/1,0.286871353,51.49536125,Active,Eastbound
+A13,6055/2,7781,TMU Site 6055/2 on link A13 eastbound within the M25/A282 junction; GPS Ref: 557184;179910; Eastbound,6055/2,0.263000796,51.49628304,Active,Eastbound
+A13,6055/1,7782,TMU Site 6055/1 on link A13 eastbound exit for M25/A282; GPS Ref: 557182;179919; Eastbound,6055/1,0.262976014,51.49636446,Active,Eastbound
+A13,6056/2,7783,TMU Site 6056/2 on link A13 westbound within the M25/A282 junction; GPS Ref: 557808;180075; Westbound,6056/2,0.272056241,51.4975918,Active,Westbound
+A13,6056/1,7784,TMU Site 6056/1 on link A13 westbound exit for M25/A282; GPS Ref: 557806;180055; Westbound,6056/1,0.272018516,51.49741267,Active,Westbound
+A13,6050/2,7785,TMU Site 6050/2 on link A13 westbound within the A1306 junction near Aveley; GPS Ref: 555064;180193; Westbound,6050/2,0.232609914,51.49941086,Active,Westbound
+A13,6050/1,7786,TMU Site 6050/1 on link A13 westbound exit for A1306; GPS Ref: 555057;180166; Westbound,6050/1,0.232497303,51.49917019,Active,Westbound
+A13,6059/1,7787,TMU Site 6059/1 on link A13 eastbound exit for A1012; GPS Ref: 560635;180204; Eastbound,6059/1,0.312806362,51.49795523,Active,Eastbound
+A13,6060/2,7788,TMU Site 6060/2 on link A13 westbound within the A1012 junction; GPS Ref: 560981;180566; Westbound,6060/2,0.317951662,51.5011092,Active,Westbound
+A13,6060/1,7789,TMU Site 6060/1 on link A13 westbound exit for A1012; GPS Ref: 561000;180557; Westbound,6060/1,0.31822106,51.50102293,Active,Westbound
+A13,6061/2,7790,TMU Site 6061/2 on link A13 eastbound within the A1089 junction; GPS Ref: 562728;181003; Eastbound,6061/2,0.343300339,51.5045354,Active,Eastbound
+A1089,6061/2,7790,TMU Site 6061/2 on link A13 eastbound within the A1089 junction; GPS Ref: 562728;181003; Eastbound,6061/2,0.343300339,51.5045354,Active,Eastbound
+A13,6061/1,7791,TMU Site 6061/1 on link link road from A13 eastbound to A1089 southbound; GPS Ref: 562727;181026; Eastbound,6061/1,0.343296549,51.50474232,Active,Eastbound
+A1089,6061/1,7791,TMU Site 6061/1 on link link road from A13 eastbound to A1089 southbound; GPS Ref: 562727;181026; Eastbound,6061/1,0.343296549,51.50474232,Active,Eastbound
+A13,6046/1,9592,TMU Site 6046/1 on link A13 eastbound exit for A1306 near Aveley; GPS Ref: 554613;180280; Eastbound,6046/1,0.226156035,51.50031608,Active,Eastbound
+A13,6046/2,9593,TMU Site 6046/2 on link A13 eastbound within the A1306 junction near Aveley; GPS Ref: 554612;180258; Eastbound,6046/2,0.226132012,51.50011869,Active,Eastbound
+A1089,6165/1,7770,TMU Site 6165/1 on A1089 southbound between A126 and Tilbury; GPS Ref: 563182;177646; Southbound,6165/1,0.348286235,51.47424571,Active,Southbound
+A1089,6064/1,7771,TMU Site 6064/1 on link A1089 southbound between A13 and A126; GPS Ref: 563885;179567; Southbound,6064/1,0.359290077,51.49130084,Active,Southbound
+A1089,6063/1,7776,TMU Site 6063/1 on A1089 northbound between Tilbury and A126; GPS Ref: 563181;177507; Northbound,6063/1,0.34820774,51.47299724,Active,Northbound
