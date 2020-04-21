@@ -15,9 +15,6 @@ import os
 
 #### IMPORT FILES ######
 
-folder = "data" 
-
-
 
 ### M25 ###
 March_M25 = pd.read_csv(join(dirname(__file__), 'data/Github_March_M25.csv'))
@@ -304,4 +301,3 @@ l.sizing_mode = "scale_width"
 
 curdoc().add_root(l)
 
-show(l)
