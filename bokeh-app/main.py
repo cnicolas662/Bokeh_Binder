@@ -20,7 +20,8 @@ folder = "data"
 
 
 ### M25 ###
-March_M25 = pd.read_csv(os.path.join(folder, 'Github_March_M25.csv'))
+March_M25 = pd.read_csv(join(dirname(__file__), 'data', 'Github_March_M25.csv'))
+  
 April_M25 = pd.read_csv(os.path.join(folder, 'Github_April_M25.csv'))
 May_M25 = pd.read_csv(os.path.join(folder, 'Github_May_M25.csv'))
 June_M25 = pd.read_csv(os.path.join(folder, 'Github_June_M25.csv'))
