@@ -288,7 +288,6 @@ text_banner3.style={'color': '#0269A4', 'font-family': \
 text_banner3.sizing_mode = "scale_width"
 text_banner3.margin = 20
 
-bokeh.io.output_notebook()
 
 l = layout([[title], [presentation],
     [text_banner2],
