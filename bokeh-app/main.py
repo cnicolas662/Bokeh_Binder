@@ -299,7 +299,4 @@ l = layout([[title], [presentation],
 l.sizing_mode = "scale_width"
 
 curdoc().add_root(l)
-from bokeh.client import push_session, pull_session
-session = push_session(curdoc())
-session.show()
-session.loop_until_closed()
+
