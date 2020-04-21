@@ -1,6 +1,7 @@
 # Running a bokeh server with Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/binder-examples/bokeh/master?urlpath=/proxy/5006/bokeh-app)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/cnicolas662/Bokeh_Binder/master?urlpath=%2Fproxy%2F5006%2Fbokeh-app
 
 This repository demonstrates how to run a Bokeh server from within Binder. To do so, we did the following things:
 
