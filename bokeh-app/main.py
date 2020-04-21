@@ -304,3 +304,5 @@ l.sizing_mode = "scale_width"
 
 curdoc().add_root(l)
 curdoc().title = "Test"
+
+show(l)
